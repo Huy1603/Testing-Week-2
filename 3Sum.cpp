@@ -27,6 +27,6 @@ int main()
                 }
             }
         }
-        cout << "test " << itest << " answer: " <<res << end;
+        cout << "test " << itest << " answer: " <<res << endl;
     }
 }
